@@ -5,7 +5,7 @@ import Int "mo:base/Int";
 import Float "mo:base/Float";
 import Blob "mo:base/Blob";
 
-actor {
+actor Day1 {
 
     // How much is the current memory capacity of a canister ?
     // canisters can have a max stable memory of 48 GB
